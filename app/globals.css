@@ -1,0 +1,74 @@
+/* El cuerpo de la página en sí */
+body {
+  background-color: black;
+}
+
+.contenedor {
+  max-width: 400px;
+  margin: 50px auto;
+  font-family: sans-serif;
+  color: white;
+}
+
+/* Separa el botón "Agregar" */
+.formulario {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+/* Caja de texto */
+.caja-input {
+  background-color: black;
+  border-color: white;
+  color: white;
+  flex: 1;
+  padding: 8px;
+}
+
+/* El mismo nombre lo dice */
+.boton-agregar {
+  background-color: rgb(19, 194, 0);
+  border-color: green;
+  border-radius: 8px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+/* Este también */
+.boton-eliminar {
+  background-color: rgb(255, 71, 71);
+  border-color: red;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Quita las viñetas de la lista */
+.lista {
+  list-style: none;
+  padding: 0;
+}
+
+/* Separa los nombres de las tareas y el botón "Eliminar" */
+.item-tarea {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+/* Separa el checkbox del nombre de la tarea */
+.contenido-tarea {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+/* Tacha el texto si la tarea está lista */
+.tachado {
+  text-decoration: line-through;
+}
+
+.normal {
+  text-decoration: none;
+}

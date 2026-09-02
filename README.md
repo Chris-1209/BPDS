@@ -1,4 +1,4 @@
-# 🖥️ Repositorio público "BDPS"
+# 🖥️ Repositorio público "BPDS"
 
 **Repositorio hecho para ser un entregable académico.**
 
@@ -29,22 +29,41 @@ Este mini proyecto consta de dos ramas:
 
 ## 📄 Contenido 
 
-El contenido en sí es muy simple, siendo este una página local de nombre **"Random Page"**
-desarrollada con **HTML**, **JS** y **CSS** el cual solo sirve para poder tener contenido dentro del repositorio.
+El contenido en sí es simple, siendo este un proyecto pequeño hecho con **NEXT.JS** llamado **"To Do List"** 
+desarrollado principalmente con **JS** y **CSS** el cual permite conocer el manejo del **CRUD**.
+
+> El grupo está conformado por:
+>
+> Christian Buitrón
+>
+> Melissa Prins
+>
+> Juan Carlos Saucedo
+>
+> Edwin Alcendra
+
+---
+
+## 📸 Captura de pantalla
+
+![captura](./public/to-do-list.svg)
 
 ---
 
 ## 🗂️ Estructura del proyecto
 
-La estructura del repositorio es la siguiente:
+La estructura principal del repositorio es la siguiente:
 
 ```
-BDPS/
-├── README.md  # Información del repositorio.
-└── CRUD/
-    ├── app.js      # Archivo JavaScript funcional.
-    ├── index.html  # Estructura de la página.
-    └── styles.css  # Estilos para decorar la página.
+bpds/
+├── app/
+│   ├── favicon.ico    # Icono de pestaña
+│   ├── globals.css    # Estilos de la página
+│   ├── layout.tsx     # Metadata
+│   └── page.jsx       # Página funcional
+├── public/
+│   └── to-do-list.svg # Captura de pantalla
+└── README.md          # Info
 ```
 
 ---
@@ -55,6 +74,6 @@ Agradezco mucho la lectura de este escrito para su revisión y comprensión,
 este repositorio se irá actualizando a medida que avance el curso. Como siempre,
 muchas gracias por tomarte el tiempo de leer esto.
 
-Atte, Chris-1209.
+Atte., Chris-1209.
 
 ---
