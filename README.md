@@ -32,16 +32,16 @@ Este mini proyecto consta de dos ramas:
 El contenido en sí es simple, siendo este un proyecto pequeño hecho con **NEXT.JS** llamado **"To Do List"** 
 desarrollado principalmente con **JS** y **CSS** el cual permite conocer el manejo del **CRUD**.
 
-> El grupo está conformado por:
->
-> Christian Buitrón
->
-> Melissa Prins
->
-> Juan Carlos Saucedo
->
-> Edwin Alcendra
+## 👥 Grupo de trabajo
 
+El grupo que maneja este repositorio está conformado por:
+
+| Nombre | GitHub |
+|---|---|
+| Christian Buitrón | [@Chris-1209](https://github.com/Chris-1209) |
+| Melissa Prins | [@molywii](https://github.com/molywii) |
+| Juan Saucedo | [@LilRocket2303](https://github.com/LilRocket2303) |
+| Edwin Alcendra | — |
 ---
 
 ## 📸 Captura de pantalla
