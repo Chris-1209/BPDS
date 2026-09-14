@@ -20,10 +20,12 @@ El repositorio presente ha sido hecho con fines académicos y de aprendizaje par
 
 ## 🔀 Ramas
 
-Este mini proyecto consta de dos ramas:
+Este mini proyecto consta de cuatro ramas:
 
-- **master:** es la rama principal del repositorio donde se efectúan los cambios finales.
-- **prod:** esta rama sirve para desarrollar y hacer cambios que luego irán hacia la rama principal (**master**).
+- *master:* es la rama principal del repositorio donde se efectúan los cambios finales.
+- *prod:* esta rama sirvió para desarrollar y hacer cambios que luego iban hacia la rama principal (*master*).
+- *feature/papelera:* es una de las funciones que hacen parte del desarrollo de la "To Do List".
+- *docs/readme-update:* esta rama es para actualizar el archivo README.md el cual contiene la información general del repositorio.
 
 ---
 
