@@ -49,12 +49,6 @@ El grupo que maneja este repositorio está conformado por:
 
 ---
 
-## 📸 Captura de pantalla
-
-![captura](./public/to-do-list.svg)
-
----
-
 ## 🗂️ Estructura del proyecto
 
 La estructura principal del repositorio es la siguiente:
