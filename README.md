@@ -32,7 +32,9 @@ Este mini proyecto consta de cuatro ramas:
 ## 📄 Contenido 
 
 El contenido en sí es simple, siendo este un proyecto pequeño hecho con **NEXT.JS** llamado **"To Do List"** 
-desarrollado principalmente con **JS** y **CSS** el cual permite conocer el manejo del **CRUD**.
+desarrollado principalmente con **TypeScript** y **CSS** el cual permite conocer el manejo del **CRUD**.
+
+---
 
 ## 👥 Grupo de trabajo
 
@@ -43,7 +45,8 @@ El grupo que maneja este repositorio está conformado por:
 | Christian Buitrón | [@Chris-1209](https://github.com/Chris-1209) |
 | Melissa Prins | [@molywii](https://github.com/molywii) |
 | Juan Saucedo | [@LilRocket2303](https://github.com/LilRocket2303) |
-| Edwin Alcendra | — |
+| Edwin Alcendra | [@dokylol2](https://github.com/dokylol2) |
+
 ---
 
 ## 📸 Captura de pantalla
@@ -62,7 +65,7 @@ bpds/
 │   ├── favicon.ico    # Icono de pestaña
 │   ├── globals.css    # Estilos de la página
 │   ├── layout.tsx     # Metadata
-│   └── page.jsx       # Página funcional
+│   └── page.tsx       # Página funcional
 ├── public/
 │   └── to-do-list.svg # Captura de pantalla
 └── README.md          # Info
