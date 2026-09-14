@@ -57,14 +57,18 @@ export default function Home() {
   }
 
 
+  const tareasCompletadas = tareas.filter((t) => t.completada).length;
+
+
   return (
     <main>
       <h1>Mi To Do List</h1>
 
 
-      <p className="contador">
-        Tareas: {tareas.length}
-      </p>
+      <div className="contadores">
+        <p className="contador">Total: {tareas.length}</p>
+        <p className="contador">Completadas: {tareasCompletadas} de {tareas.length}</p>
+      </div>
 
 
       <input
@@ -107,7 +111,7 @@ export default function Home() {
           </li>
         ))}
       </ul>
-      <h2>Papelera</h2>
+      <h2 className="papelera-texto">Papelera</h2>
       <ul>
         {papelera.map((tarea) => (
           <li key={tarea.id}>
