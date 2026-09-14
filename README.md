@@ -34,6 +34,13 @@ Este mini proyecto consta de cuatro ramas:
 El contenido en sí es simple, siendo este un proyecto pequeño hecho con **NEXT.JS** llamado **"To Do List"** 
 desarrollado principalmente con **TypeScript** y **CSS** el cual permite conocer el manejo del **CRUD**.
 
+Dentro de la **"To Do List"** puedes:
+
+- Agregar tareas a hacer.
+- Marcar tareas como hechas o quitar la marca.
+- Eliminar tareas tanto hechas como no hechas.
+- Revisar la papelera de tareas eliminadas
+
 ---
 
 ## 👥 Grupo de trabajo
@@ -70,6 +77,22 @@ bpds/
 │   └── to-do-list.svg # Captura de pantalla
 └── README.md          # Info
 ```
+
+---
+
+## ❓¿Cómo ejecutar el proyecto localmente?
+
+1. Debe tener instalado en su dispositivo **Node.js** y **Git**.
+2. Clone el repositorio usando el siguiente comando en la terminal de **Bash**: `git clone https://github.com/Chris-1209/BPDS.git`.
+3. Instale las dependencias con el siguiente comando: `npm install`.
+4. Coloque `npm run dev` en la terminar luego de paso anterior para poder empezar a ejecutar el proyecto
+5. Abra [localhost:3000](http://localhost:3000) en su navegador para abrir e interactuar con la página.
+
+---
+
+## 🆕 Actualizaciones recientes
+
+> Se ha añadido la papelera para poder revisar las tareas que se han eliminado por el usuario. Esta función se ubica abajo de la lista de tareas.
 
 ---
 
