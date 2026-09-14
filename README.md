@@ -20,27 +20,32 @@ El repositorio presente ha sido hecho con fines académicos y de aprendizaje par
 
 ## 🔀 Ramas
 
-Este mini proyecto consta de dos ramas:
+Este mini proyecto consta de cuatro ramas:
 
-- **master:** es la rama principal del repositorio donde se efectúan los cambios finales.
-- **prod:** esta rama sirve para desarrollar y hacer cambios que luego irán hacia la rama principal (**master**).
+- *master:* es la rama principal del repositorio donde se efectúan los cambios finales.
+- *prod:* esta rama sirvió para desarrollar y hacer cambios que luego iban hacia la rama principal (*master*).
+- *feature/papelera:* es una de las funciones que hacen parte del desarrollo de la "To Do List".
+- *docs/readme-update:* esta rama es para actualizar el archivo README.md el cual contiene la información general del repositorio.
 
 ---
 
 ## 📄 Contenido 
 
 El contenido en sí es simple, siendo este un proyecto pequeño hecho con **NEXT.JS** llamado **"To Do List"** 
-desarrollado principalmente con **JS** y **CSS** el cual permite conocer el manejo del **CRUD**.
+desarrollado principalmente con **TypeScript** y **CSS** el cual permite conocer el manejo del **CRUD**.
 
-> El grupo está conformado por:
->
-> Christian Buitrón
->
-> Melissa Prins
->
-> Juan Carlos Saucedo
->
-> Edwin Alcendra
+---
+
+## 👥 Grupo de trabajo
+
+El grupo que maneja este repositorio está conformado por:
+
+| Nombre | GitHub |
+|---|---|
+| Christian Buitrón | [@Chris-1209](https://github.com/Chris-1209) |
+| Melissa Prins | [@molywii](https://github.com/molywii) |
+| Juan Saucedo | [@LilRocket2303](https://github.com/LilRocket2303) |
+| Edwin Alcendra | [@dokylol2](https://github.com/dokylol2) |
 
 ---
 
@@ -60,7 +65,7 @@ bpds/
 │   ├── favicon.ico    # Icono de pestaña
 │   ├── globals.css    # Estilos de la página
 │   ├── layout.tsx     # Metadata
-│   └── page.jsx       # Página funcional
+│   └── page.tsx       # Página funcional
 ├── public/
 │   └── to-do-list.svg # Captura de pantalla
 └── README.md          # Info
