@@ -72,10 +72,30 @@ main > button {
 }
 
 
+.contadores {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+
+.contadores .contador {
+  margin: 0;
+  font-weight: bold;
+}
+
+
 main > button:hover {
   background: #5849c7;
 }
 
+
+.papelera-texto {
+  padding-top: 16px;
+  font-weight: bold;
+}
 
 /* Lista */
 ul {
